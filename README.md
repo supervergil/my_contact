@@ -2,4 +2,4 @@
 
 ## 微信: zaowangxiaoye
 
-![avatar](./assets/wechat.jpg)
+<img src="./assets/wechat.jpg" width="320px" />
